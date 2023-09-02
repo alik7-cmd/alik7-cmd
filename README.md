@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=alik7-cmd)
+
 - 👋 Hi, I’m @alik7-cmd
 - 👀 I’m interested in Android Development, Kotlin, Java and Swift.
 - 🌱 I’m currently in race **Software Design & Development.**
