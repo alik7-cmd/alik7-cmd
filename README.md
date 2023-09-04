@@ -1,6 +1,22 @@
+<div id="badges">
+  <a href="https://www.linkedin.com/in/k-h-rafiquel-islam/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@alik.rafi7">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://leetcode.com/alik-cmd/">
+    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ![](https://komarev.com/ghpvc/?username=alik7-cmd)
 
-- 👋 Hi, I’m @alik7-cmd
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+- 👋 Hi, I’m KH Rafiqul Islam
 - 👀 I’m interested in Android Development, Kotlin, Java and Swift.
 - 🌱 I’m currently in race **Software Design & Development.**
 - 💞️ Reach me at **alik.rafi7@gmail.com**
@@ -38,6 +54,9 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alik7-cmd&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alik7-cmd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 alik7-cmd/alik7-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
